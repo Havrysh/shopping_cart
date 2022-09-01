@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://Havrysh.github.io",
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
